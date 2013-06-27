@@ -27,6 +27,7 @@ public class LinhaComando {
 	
 	System.out.println("Meu time já jogou na 2ª Divisão do Campeonato Brasileiro");
 
+	System.out.println("Testando novamente o GIT !!");
         
     }
     
