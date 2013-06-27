@@ -18,7 +18,7 @@ public class LinhaComando {
         } else if (args[0].equals("autor")) {
             System.out.println("O autor do programa é Diego\n");
         } else if (args[0].equals("time")) {
-            System.out.println("O time que Diego torce é o Corinthians\n");
+            System.out.println("O time que Diego torce é o Flamengo\n");
         } 
 
 	System.out.println("Alguma modificação simples!");
